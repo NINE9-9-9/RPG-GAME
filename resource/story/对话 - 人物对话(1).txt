@@ -1,0 +1,295 @@
+a0 =Su Qing: 
+a1 =Su Qing:
+a2 =Elder:
+a3 =Su Qing: 
+a4 =Elder:  
+a5 =Elder: 
+a6 =Elder: 
+a7 =Elder: 
+a8 =Su Qing: 
+a9 =Elder: 
+a10 =Su Qing: 
+a11 =Elder: 
+a12 =Elder: 
+a13 =Elder: 
+a14 =Su Qing: 
+a15 =Elder: 
+a16 =Su Qing: 
+
+aaaa0 = Elder:
+aaaa1 = Su Qing: 
+
+kk0 =Child:
+kk1 =Child:
+
+ll0 =Farmer:
+ll1 =Farmer:
+
+mm0 =Aunt:
+mm1 =Aunt:
+
+pp0 = Xianglan: 
+pp1 = Su Qing: 
+pp2 = Xianglan: 
+pp3 = Xianglan: 
+pp4 = Xianglan:
+pp5 = Su Qing:
+pp6 = Su Qing: 
+pp7 = Xianglan: 
+
+qq0 = Xiulan:   
+qq1 = Su Qing: 
+qq2 = Xiulan: 
+qq3 = Xiulan: 
+
+rr0 = Xiaohu: 
+rr1 = Su Qing: 
+rr2 = Xiaohu: 
+rr3 = Su Qing:
+rr4 = Xiaohu: 
+rr5 = Su Qing: 
+
+b0 =Doctor Hong: 
+
+ss0 = blacksmith: 
+
+c0 =Zhang Sanfeng: 
+c1 =Zhang Sanfeng:
+
+d0 =Fisherman: 
+d1 =Fisherman: 
+
+e0 =Li Yuanfang: 
+e1 =Li Yuanfang: 
+e2 =Li Yuanfang: 
+e3 =Li Yuanfang: 
+e4 =Li Yuanfang: 
+e5 =Li Yuanfang: 
+e6 =Li Yuanfang: 
+
+f0 =Lin Yu Zong: 
+f1 =Lin Yu Zong: 
+f2 =Lin Yu Zong: 
+f3 =Lin Yu Zong: 
+f4 = Su Qing: 
+f5 = Lin Yu Zong: 
+f6 = Su Qing: 
+f7 = Lin Yu Zong: 
+
+g0 =Huang Pu Ying: 
+g1 =Huang Pu Ying: 
+g2 =Su Qing: 
+g3 =Su Qing: 
+g4 =Huang Pu Ying: 
+g5 =Su Qing: 
+g6 =Huang Pu Ying: 
+g7 =Huang Pu Ying: 
+
+aaa0 = Taoist: 
+选项是/否(10元)
+aaa1 = Taoist: 
+aaa2 =Taoist:
+aaa3 = Su Qing: 
+aaa4 = Taoist: 
+aaa5 = Su Qing: 
+
+bbb0 = Monk: 
+bbb1 = Monk: 
+bbb2 = Su Qing: 
+bbb3 = Monk: 
+bbb4 = Su Qing: 
+bbb5 = Monk: 
+bbb6 = Su Qing: 
+bbb7 = Monk: 
+
+ccc0 = Big man: 
+ccc1 = Xianglan: 
+ccc2 = Big man: 
+ccc3 = Xianglan: 
+ccc4 = Xiulan:
+ccc5 = Big man:
+ccc6 = Su Qing: 
+ccc7 = Big man: 
+
+//地图1（城镇）结束
+nn0 =Solider:
+nn1 =Su Qing:
+nn2 =Solider:
+
+h0 =Su Qing: 
+h1 =Elves: 
+h2 =Su Qing: 
+h3 =Su Qing: 
+h4 =Elves: 
+h5 =Elves: 
+h6 =Su Qing: 
+h7 =Elves: 
+h8 =Su Qing: 
+
+i0 =Drugstore owner: 
+i1 =Drugstore owner: 
+
+j0 =Snow mountain Guardian: 
+j1=Su Qing: 
+j2 =Su Qing: 
+j3 =Snow mountain Guardian: 
+k0 =Tip: 
+//地图2结束 
+oo0 = Immortal: 
+oo1 = Su Qing:
+oo2 = Immortal:
+oo3 = Su Qing:
+oo4 = Su Qing:
+
+l0 =Drugstore owner: 
+
+m0 =Weapon shop blacksmith: 
+m1 =Weapon shop blacksmith: 
+  
+n0 =Prop shop merchant: 
+
+o0 =Doctor: 
+o1 =Su Qing: 
+o2 =Su Qing: 
+o3 =Doctor: 
+o4 =Su Qing: 
+o5 =Doctor: 
+o6 =Su Qing: 
+o7 =Doctor: 
+o8 =Doctor: 
+o9 =Su Qing: 
+o10=Doctor: 
+o11 =Doctor: 
+o12 =Doctor: 
+o13 =Doctor: 
+o14 =Su Qing: 
+o15 =Doctor: 
+o16 =Doctor:  
+o17 =Doctor: 
+o18 =Su Qing: 
+o19 =Doctor: 
+o20=Su Qing: 
+p0 =Elves: 
+p1 =Su Qing: 
+p2 =Elves: 
+p3 =Su Qing: 
+o21 =Doctor: 
+o22 =Doctor: 
+o23 =Doctor: 
+o24 =Su Qing: 
+o25 =Together:  
+
+q0 =Taoist Mu: 
+q1 =Taoist Mu: 
+q2 =Su Qing: 
+q3 =Taoist Mu: 
+q4 =Su Qing: 
+q5 =Taoist Mu: 
+q6 =Taoist Mu: 
+q7 =Taoist Mu: 
+q8 =Su Qing: 
+r0 =Elves: 
+r1 =Su Qing: 
+q9 =Taoist Mu:
+q10 =Su Qing:
+s0 =Tip: 
+s1 =Tip: 
+//地图3结束 
+t0 =MengPo: 
+t1 =Su Qing: 
+t2 =Su Qing: 
+t3 =MengPo: 
+t4 =MengPo: 
+t5=Su Qing: 
+t6 =MengPo: 
+t7 =Su Qing: 
+t8 =MengPo: 
+t9 =MengPo: 
+t10 =Su Qing: 
+t11 =MengPo: 
+t12 =Su Qing: 
+t13 =Su Qing: 
+t14 =MengPo: 
+t15 =MengPo: 
+//进入锁妖塔
+u0 =Left footed Monster:    
+v0 =Right footed Monster: 
+w0=Snake demon woman:   
+w1 =Su Qing:    
+w2 =Snake demon woman: 
+w3 =Su Qing:        
+w4 =Snake demon woman:          
+w5 =Su Qing: 
+w6 =Snake demon woman: 
+w7 =Su Qing:       
+x0 =Tip:  
+//第一层结束
+y0 =Fire Dragon:            
+z0 =Water Dragon:         
+aa0 =Dragon King: 
+aa1 =Dragon King: 
+aa2 =Su Qing:    
+aa3 =Dragon King: 
+aa4 =Dragon King:       
+aa5 =Su Qing: 
+//第二层结束  
+bb0 =Fear:   
+bb1 =Su Qing:           
+bb2 =Fear:     
+cc1 =Elves:      
+bb3 =Fear:          
+bb4 =Su Qing: 
+          
+dd0 =Sad: 
+dd1 =Sad: 
+dd2 =Su Qing:            
+dd3 =Sad:              
+
+ee0 =Happy: 
+ee1 =Together: 
+ee2 =Happy:  
+ee3 =Su Qing:   
+ee4 =Happy:      
+ee5 =Su Qing: 
+  
+ff0 =Together:  
+ff1 =Greedy:         
+ff2 =Su Qing:             
+ff3=Greedy:             
+ff4 =Su Qing: 
+ff5 =Su Qing: 
+ff6 =Greedy: 
+ff7 =Greedy: 
+ff8 =Su Qing:           
+gg0 =Elves: 
+ff9 =Greedy:
+ff10 =Greedy: 
+ff11 =Greedy:      
+
+hh0 =Tip: 
+hh1 =Tip: 
+
+ii0 =Elves: 
+ii1 =Elves: 
+ii2 =Su Qing: 
+ii3 =Su Qing: 
+jj0 =Pluto:
+jj1 =Pluto:  
+jj2 =PIuto: 
+jj3 =PIuto:      
+jj4 =Su Qing: 
+//第一战必败
+jj5 =Su Qing:         
+jj6 =Pluto:       
+jj7 =Su Qing:             
+jj8 =Pluto:       
+jj9 =Su Qing:     
+jj10 =Pluto:     
+jj11 =Su Qing: 
+jj12 =Su Qing: 
+
+ii4 =Su Qing:             
+ii5 =Elves:           
+ii6 =Su Qing: 
+ii7 =Su Qing: 
+//屏幕最后显示The end

@@ -1,0 +1,299 @@
+a0 = Master, please teach me martial arts.
+a1 = I also want to be a person with high martial arts like you! 
+a2 = You are too young to learn martial arts~ 
+a3 = But I want to protect myself, protect my master, and... 
+a4 = Silly child, it is not that I don't want to teach you, 
+a5 = But the time is not yet ripe. 
+a6 = And I must make sure that your mind skills are correct, 
+a7 = you can save this world in flames! 
+a8 = (laughs) Master is the best! 
+a9 = Good child, today I will teach you my martial arts script! 
+a10 = (happy) Thank you, master! 
+a11 = Silly child, you have learned my true meaning.
+a12 = Now it's time to go out and practice!
+a13 = Besides, it's time for you to look for Longquan sword! 
+a14 = What is Longquan sword？        
+a15 = Go to find Huang Puying! He will tell you! 
+a16 = I will live up to my master's expectations! 
+//修改（主角返回屋子）
+aaaa0 = You have grown up! It's time to let you out.  
+aaaa1 = Master, I will return with full load!
+
+//城镇的人开始（房间外面）
+kk0 = Elder brother must teach me martial arts if you learn!
+kk1 = You have promised it to me!
+
+ll0 = Farming is the love of my life!
+ll1 = I might as well die if I don't farm!
+
+mm0 = Have you seen where my child are?
+mm1 = Day by day, the child ran around.
+
+pp0 = Good morning to me, brother Su. I..I think...
+pp1 = Oh? What's the matter... Say it!
+pp2 = No...nothing...
+pp3 = Brother Su, I... I cooked a pot of Laba porridge at home. 
+pp4 = If you are free, come over after dinner and have a taste of my craft.
+pp5 = Yes, of course. Sister Xianglan's dim sum is famous. 
+pp6 = Last time I ate the red bean soup you asked me, my mouth is sweet to the present.           
+pp7 = Hee... Make sure to come!
+
+qq0 = How can brother Su get up so early today?            
+qq1 = Morning, sister Xiulan is helping faremer to carry water and water vegetables so early. 
+qq2 = Who can be as idle as you are? My elder sister got up every day without lighting up. 
+qq3 = and cooked a big pot of sweet porridge. I don't know who was given it to eat?
+
+rr0 = brother Su! Will you take me to the woods to find the bird's nest today?
+rr1 = Sorry, brother still has something to do. I can't take you to lead today.
+rr2 = Oh, what a pity. Tomorrow, you must take me there!
+rr3 = Well...let's talk about it later...
+rr4 = You must take me to play tomorrow. You can't cheat me!
+rr5 = OK~OK~you go to play with yourself.
+
+//屋子里的人（旅馆的没写）
+b0 = Do you want to buy some medicine for tonic?（药店）
+//添加铁匠
+ss0 = Let's see the weapon I just knocked out!
+
+c0 = The young man has grown up. 
+c1 = It's time to go out and make a living! 
+
+d0 = Today is also a good day for fishing, 
+d1 = But I told you that once when I was fishing, the fish flew!
+
+e0 = Do you want to hear my story?
+e1 = I used to travel all over the Jianghu with excellent martial arts, 
+e2 = but my arms were abandoned because of the conspiracy.
+e3 = But a doctor saved me. 
+e4 = Now I still remember his superb medical skills. 
+e5 = I don't think he is a human being, but a god! 
+e6 = Oh, if you get hurt, you can find him! He can cure all diseases!
+
+f0 = Taking advantage of the wind, the imperial sword can get rid of the demons 
+f1 = I am happy when I have wine, and I am happy when I have no wine 
+f2 = Once you drink all the rivers, then you drink the sun and the moon 
+f3 = I can't drink a thousand cups, only I, Lin Jianxian 
+//修改
+f4 = This man must be a madman!
+f5 = You little devil, I've seen Longquan sword!
+f6 = What are you saying?
+f7 = An ignorant little devil!
+
+g0 = Look who's here. 
+g1 = It seems that your master has taught you the secret script! 
+g2 = Yes, brother Huang. Master told me to come here. 
+g3 = He finally agreed to my training!
+g4 = Take it. Your master told me to leave it to you. 
+g5 = Thank you brother Huang!(get the wooden sword) 
+g6 = Go to snow mountain. 
+g7 = It's the best place for you to experience! 
+//两层
+aaa0 = Do you want you fortune told?
+选项是/否(10元)
+aaa1 = Evil is not evil, Tao is not Tao, good and evil are in people's hearts.
+aaa2 = Lust is not lust, affection is not affection, affection is decided by heaven
+aaa3 = What does it mean?
+aaa4 = You will understand when fate comes!
+aaa5 = You are a liar!
+
+bbb0 = Amitabha...
+bbb1 = Amitabha...
+bbb2 = Master, are you?
+bbb3 = Amitabha...
+bbb4 = Master, I am...
+bbb5 = Amitabha...
+bbb6 = Emmm...
+bbb7 = Amitabha...
+
+//黄莆英对话结束后 去雪山之前触发对话
+ccc0 = Xianglan, you can follow me
+ccc1 = No! go away!
+ccc2 = You can't help it!
+ccc3 = Come on! help me!
+ccc4 = Let go of my sister!
+ccc5 = One way, I'm not interested in you!
+ccc6 = Let them go!
+ccc7 = Are you still trying to stop me?
+
+//地图1（城镇）结束
+nn0 = Don't come here if you haven't learned martial arts.
+nn1 = I am already a martial artist. Please let me pass.
+nn2 = Okay, now you can go.
+ 
+h0 = Are you... Are you human? 
+h1 = I'm not human. I'm elves. Can you help me? 
+h2 = (so beautiful, what reason do I have to help? Ha ha!!) 
+h3 = Cough, the road is rough. How can I refuse to help you! 
+h4 = Great, I didn't see the wrong person as expected. 
+h5 = Then you can accompany me to the next town! 
+h6 = OK, let's go! (ha ha, I'll be able to do it when it's done, ha ha...）
+h7 = How do I feel that you are thinking about something bad... 
+h8 = (very flustered in heart) No, let's go! 
+
+i0 = You should protect yourself when wandering the Jianghu. 
+i1 = Come and have a look at my unique medicine! 
+
+j0 = It's bad luck to meet me! 
+j1= You are the snow demon! I've learned swordsmanship. 
+j2 = It's easy to kill you! 
+j3 = I hate talking big kids! 
+k0 = Please go on and find the cure spirit!
+//地图2结束
+oo0 = How can ordinary people come here?
+oo1 = Do you know where the doctor is?
+oo2 = Boy, very polite! The doctor is in that room!
+oo3 = Thank you very much. I'm going to find a miracle doctor soon. 
+oo4 = We are destined to see each other again
+
+l0 = I have medicine you can't buy!
+      
+m0 = Hello warrior, the sword in your hand is rusty. 
+m1 = Come and have a look at my weapons!
+   
+n0 = Go away without money. The things here are unique! 
+
+o0 = How can human find this place? Besides, you have a special breath... 
+o1 = I have a friend who has been seriously injured. 
+o2 = Please see if you can cure her! 
+o3 = I know everything, but I don't have the way for her injuries. Go! 
+o4 = Doctor, please. As long as I can save her, I will live ten years less. 
+o5 = Well, since you have said that, I can't die without help! 
+o6 = You are really a good man. Thank you so much! 
+o7 = I'll help her with her pulse first.
+o8 = Fate! 
+o9 = What's the point? 
+o10= This spirit is an important clue to unlock Longquan sword. 
+o11 = Longquan sword needs the blood of the emperor to remove its seal.  
+o12 = I guess you are the right man. 
+o13 = Your breath makes me feel like a dragon flying. 
+o14 = Really, I don't know anything. No matter how much, please cure her first!
+o15 = OK, but I have one thing to ask for! 
+o16 = After curing, can you help me defeat Taoist Mu outside my home? 
+o17 = He does evil every day! And it's said that he has the clue of Longquan! 
+o18 = It's on me! 
+o19 = Well, she has recovered! 
+o20= Great kindness cannot be rewarded with words! 
+p0 = I can't believe you are so kind to me! 
+p1 = No else can I be good to! 
+p2 = Hum! Let's help the doctor defeat Taoist Mu! 
+p3 = Then we will leave! 
+o21 = Wait a minute. There is a secret script that was sent to me before. 
+o22 = Now I will give it to you. You will use it. 
+o23 = After leaving, you can see the wooden Taoist at the end of the path. 
+o24 = (get the Vajra mantra)
+o25 = Thank you! 
+
+q0 = Benefactor and I are predestined. 
+q1 = Would you like to help me with some money? 
+q2 = Hum, I have seen through your trick! 
+q3 = Ah, you are looking for trouble! 
+q4 = You usually do a lot of mischief. I'm going to act for heaven today! 
+q5 = Ha ha, it is my hundred years of practice 
+q6 = which make me be the gatekeeper of the lock demon tower. 
+q7 = What do you know?
+q8 = What the Lock Demon tower? Is it related to Longquan sword? 
+r0 = Just beat him to the Lock Demon Tower! You can find Longquan sword! 
+r1 = Then defeat him to finish the master's order! 
+q9 = You two leave your last words. I have always been very humane! 
+q10 = It's you who should leave your last words!
+s0 = Please buy weapons and medicine before going to the next map, 
+s1 = and then enter the lock demon tower along the road!
+//地图3结束
+t0 = Who are you? 
+t1 = I am the son of heaven. 
+t2 = I come here to seek dragon spring sword to protect the people. 
+t3 = Funny! All the people said that they were the son of heaven, 
+t4 = which one are you? 
+t5= I'm really the son of heaven. How can I prove it to you? 
+t6 = Give me your hand, young man! 
+t7 = What do you want, old woman! 
+t8 = Why are you so afraid? I won't eat you! 
+t9 = You really seem to have dragon veins, but I must make sure...
+t10 = Now that you understand it, don't talk about it in the future. 
+t11 = No nonsense, you tell me the purpose of Longquan sword. 
+t12 = Didn't I say that I want to protect the people 
+t13 = and save the people in the water and fire?
+t14 = In this case, let's see if you can defeat me first. 
+t15 = If you can't defeat me, don't dream of saving the world! 
+//进入锁妖塔 
+u0 = Another human is coming to die!       
+v0 = Oh, this meat is not so easy to eat!     
+w0 = I can't believe that there are people coming to die. How happy!     
+w1 = Death? Your two staffs are to die for me!     
+w2 = What, have you killed my staff?         
+w3 = Oh, the two one legged monsters. No wonder they are as ugly as you!             
+w4 = How dare you are to say that I'm ugly, are you not going to die?           
+w5 = ha ha, you hand in Longquan sword, I can spare your life!        
+w6 = how are you after thousands of years of creation?             
+w7 = Look at my sword splitting your snake skin!          
+x0 = In the third layer, you must first talk with the guide of the second layer. 
+//第一层结束 
+aa0 = Humble things, feel the heat!           
+aa1 = Dirty things, feel the cold!          
+aa2 = Oh? Unexpectedly, some ordinary people came to the second floor of the lock demon tower,a pair! 
+aa3 = Did you come to be dinner for me?    
+aa4 = Don't talk nonsense, today I will kill you!      
+aa5 = Are you kidding me to death, just by you? 
+aa6 = I'll give you three rounds and you're a scum!            
+aa7 = Kill you are dirty my sword! 
+//第二层结束 
+bb0 = You shouldn't come here. I'll enlarge your fear!         
+bb1 = I'm not afraid!           
+bb2 = Yeah, your partner seems to be scared out of his depth.         
+cc1 = I don't know why I can't move!       
+bb3 = Idiot, now I know how powerful I am, but you are not affected by me!            
+bb4 = Untie it for her!
+         
+dd0 = I haven't experienced human sadness for a long time. 
+dd1 = In front of sadness, you two will not be able to cause magic damage to me! 
+dd2 = Do not try to see how to know!             
+dd3 = Big talker, even if you overcome fear, you can't win me!             
+
+ee0 = Are you happy? I am so happy!           
+ee1 = I'm afraid it's a fool!           
+ee2 = Be willing to help others is a kind of happiness! Come and help me!         
+ee3 = What's the matter with you?           
+ee4 = She is as happy as I am. Help me to beat you, son!         
+ee5 = There are such despicable tricks. Whoever steals my wife will die!  
+      
+ff0 = Show any disgusting moves, we are not afraid of you!      
+ff1 = ...         
+ff2 = Is this a dumb stone ghost, can't speak?            
+ff3 = Both of you are greedy. The greedier you are, the stronger I will be!             
+ff4 = Ha ha, you are unlucky. We are both good people! 
+ff5 = Don't be greedy for anything! 
+ff6 = You want Longquan sword, she wants you to company her forever, 
+ff7 = which can strengthen me, ha ha ha, idiot! 
+ff8 = Although I am very happy to listen, I will not be merciful!            
+gg0 = (blushing...) 
+ff9 = I just talked with you to delay my absorption of your greedy time. 
+ff10 = Now that I've absorbed it, 
+ff11 = I can send you two little ghosts to hell and avenge the other three stone idols!          
+
+hh0 = Please go to the bottom of the initial position 
+hh1 = and press the space to trigger the story.
+
+ii0 = It's said that as long as you drop blood, 
+ii1 = the blood of the real one can wake up the sealed Longquan sword!        
+ii2 = Good!
+ii3 = (a drop of blood on the door)      
+jj0 = Even if you are the son of destiny, you must pass the test. 
+jj1 = I am Pluto, the king of the pagoda.  
+jj2 = I am used to manage all the trifles in the pagoda.
+jj3 = If you don't pass my pass, you can't touch Longquan sword!           
+jj4 = I haven't failed, how can I be afraid of you! 
+//第一战必败
+jj5 = How can I lose!           
+jj6 = You want to protect the world as long as you can!       
+jj7 = I won't give up. Even if I fight for my life, I have something to guard!            
+jj8 = Boy, then prove it to me!        
+jj9 = Longquan sword returns!       
+jj10 = This... How can it be!           
+jj11 = It's time to prove to you that I am the owner of Longquan sword! 
+jj12 = (get the unity of man and sword)
+
+ii4 = (get Longquan sword) I'm the right man!            
+ii5 = Will you always be with me? (asked shyly)           
+ii6 = I want to take you to guard the world, 
+ii7 = protect the good people in the world, kill the demons and eliminate the demons! 
+//屏幕最后显示The end

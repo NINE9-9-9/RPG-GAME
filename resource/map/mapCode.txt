@@ -1,0 +1,14 @@
+Four-digit number: 
+First represents type;
+Second represents UpDown, 1 Up 2 Down 0 NoUpDown; 
+Third represents LeftMidRight, 1 Left 2 Mid 3 Right 0 NoLeftRight; 
+Fourth represent  the  sequence number.
+
+timberpile or fence: 1
+road: 2
+lawn or box or tree or grass: 3
+pool: 4
+house: 5
+wall or window or door: 6
+stairs or lamp: 7
+cliff: 8

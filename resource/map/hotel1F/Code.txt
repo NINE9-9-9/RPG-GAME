@@ -1,0 +1,40 @@
+floor1-6: 10000-10005
+carpetBottomLeft:10210
+carpetBottomMid:10220
+carpetBottomRight:10230
+carpetMid:10020
+carpetRight:10030
+
+
+ceilingBottomLeft1-2:13210-13211
+ceilingBottomMid:13220
+ceilingBottomRight:13230
+ceilingLeft1-2:13010-13011
+ceilingMid1-3:13020-13022
+celingRight1-3:13030-13032
+ceilingTopLeft1-3:13110-13112
+ceilingTopMid1-2:13120-13121
+ceilingTopRight1-2:13130-13131
+
+furniture1-8: 11000-11007
+furnitureBottom1-3: 11200-11202
+furnitureBottomRight: 11230
+furnitureLeft1-2: 11010-11011
+furnitureMid1-3: 11020-11022
+furnitureRight:11030
+furnitureTop1-4: 11100-11103
+
+houseWallBottom1-6:12200-12205
+houseWallLeft:12010
+houseWallMid:12020
+houseWallRight:12030
+houseWallTop1-4:12100-12103
+
+stair:6001
+
+black:0001
+
+20*21
+20 rows
+21 columns
+

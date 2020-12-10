@@ -1,0 +1,127 @@
+weapon0 = Wooden Sword
+priceW0 = 250G
+briefW0 = a sword carved from wood, a child's toy
+AttributeW0 = AK+2 SP+3
+shop0 = Weapon Shop
+content0 = Do you want to by some weapons?
+weapon1 = Iron Sword 
+priceW1 = 500
+briefW1 = a sword produced by a large number of blacksmiths which is made quite poorly
+AttributeW1 = AK+10 DF+3
+weapon2 = Long Sword 
+priceW2 = 1000
+briefW2 = most blacksmiths accept to make, more delicate and sharper than iron Swords
+AttributeW2 = AK+25 DG+2
+weapon3 = Red Tassel Sword
+priceW3 = 1500
+briefW3 = made of fine steel with thick back and thin blade.  Decorated with long red spike
+AttributeW3 = AK+28 SP+2 DG+1
+weapon4 = Darksteel Sword
+priceW4 = 2500
+briefW4 = made of precious black iron ore, tough, sharp and extremely heavy
+AttributeW4 = AK+45 SP-10 DG-3
+weapon5 = Seven Star Sword
+priceW5 = 5000
+briefW5 = the body is inlaid with seven gold jewels, which absorb the essence of the Big Dipper
+AttributeW5 = AK+80 SP+12 DF+7 
+weapon6 = Dust free sword
+priceW6 = 10000
+briefW6 = ancient magic sword, pointing to the sky and breaking the earth
+AttributeW6 = AK+100 DF+20 SP+15 DG+5
+
+//
+木剑：用木材雕刻的剑，小孩玩具 
+铁剑：一般铁匠大量生产的剑，打造的颇为粗劣
+长剑：一般铁匠接受订造的剑，比铁剑精致锋利
+红缨刀：精钢打造，背厚刃薄，刀柄饰以红色长穗
+玄铁剑：以珍贵的黑色铁矿打造而成，坚韧锋利但极笨重
+七星剑：剑身镶嵌七颗金黄宝石，可吸取北斗七星之精气
+无尘剑：上古神剑，指天天崩，划地低裂
+shop1 = Armor Shop
+content1 = Do you want to by some armors?
+armor0 = Cloth robe
+priceA0 = 100
+briefA0 = a long sleeved white robe sewn with coarse cloth
+AttributeA0 = DF+3
+armor1 = Rattan armor
+priceA1 = 300
+briefA1 =armor made of Jingteng
+AttributeA1 = DF+7 DG+1
+armor2 = Iron Lock Clothes
+priceA2 = 600
+briefA2 = Lock armour made of iron rings and locks
+AttributeA2 = DF+13 SP-5 DG-2
+armor3 = Bronze Armor
+priceA3 = 1500
+briefA3 = Bronze breastplate with animal face pattern
+AttributeA3 = DF+22 SP-4
+armor4 = Iron Scale
+priceA4 = 3000
+briefA4 = armor made up of scales
+AttributeA4 = DF+40 SP-4 DG-3
+armor5 = Tortoise Battle Robe 
+priceA5 = 6000
+briefA5 = forged from Xuanwu shell armour. The material is tough, black and lusterless
+AttributeA5 = DF+80
+
+//
+布袍：粗布缝制的交领长袖白袍
+藤甲：以荆藤编制的护甲
+铁锁衣：以铁环和锁制成的锁甲
+铁鳞甲：以鱼鳞形甲片编缀而成的铠甲
+青铜甲：青铜制的兽面纹胸护甲
+玄武战袍：以玄武的壳甲锻造而成，材质坚韧色黑无光泽
+shop2 = Drug Shop
+content2 = Do you want to by some drugs?
+drug0 = Fruit
+priceD0 = 20
+briefD0 = beauty care helps digestion
+AttributeD0 = HPMP+20
+drug1 = Hemostatic grass
+priceD1 = 35
+briefD1 = it can stop bleeding quickly after being chewed and applied on the wound
+AttributeD1 = HP+50
+drug2 = Marching pill
+priceD2 =70
+briefD2 = a pill for promoting blood circulation
+AttributeD2 = HP+100
+drug3 = Ambergris
+priceD3 = 150
+briefD3 = irrigated by the saliva of the dragon, used for seasoning and detoxification
+AttributeD3 = MP+120
+drug4 = Royal honey
+priceD4 = 250
+briefD4 = the best honey made by bees
+AttributeD4 = HPMP+150 
+drug5 = Acorus calamus 
+priceD5 = 400
+briefD5 = a kind of water plant with long and narrow leaves
+AttributeD5 = SP+1 MP+50
+drug6 = Snow lotus seed
+priceD6 = 700
+briefD6 = the lotus seed of white jade snow lotus, which is round and jade like
+AttributeD6 = HPMP+250
+drug7 = Linghu elixir
+priceD7 = 800
+briefD7 = the elixir refined by monks and hermits
+AttributeD7 = MP+400 
+drug8 = Zijing jade paste
+priceD8 = 1500
+briefD8 = according to the secret recipe of the court, it is refined with precious herbs
+AttributeD8 = MP+700 
+drug9 =  Celestial jade dew
+priceD9 = 1800
+briefD9 = a pure bottle of nectar for Avalokitesvara, magic medicine hard to find in the world
+AttributeD9 = HP+1000 
+
+//
+水果：养颜美容帮助消化
+止血草：嚼碎后敷在伤口上可迅速止血
+行军丹：活血顺气的药丸
+龙涎草：经蛟龙唾涎灌溉而成，用来调味解毒
+蜂王蜜：蜜蜂所酿最好的蜜
+九节菖蒲：一种水草，叶子狭长如剑
+灵葫仙丹：修道隐士所炼丹药
+雪莲子：白玉雪莲之莲子，其形珠圆玉润
+紫菁玉蓉膏：依宫廷秘方，采珍贵药材炼制
+天仙玉露: 观音菩萨净瓶甘露水，人间难求的仙界圣药
